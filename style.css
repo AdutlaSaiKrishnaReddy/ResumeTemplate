@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 1px;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+}
+
+fieldset {
+    border: 0;
+    width: 800px;
+}
+
+
+.personal_details {
+    text-align: center;
+}
+
+.url {
+    text-decoration: none;
+}
